@@ -83,8 +83,9 @@ li {
   height: 32px;
   width: 183px;
 }
+
 .logo_place_footer {
-  content: url("/images/logo_place_footer.svg");
+  content: url("images/logo_place_footer.svg");
   height: 35px;
   width: 183px;
 }
