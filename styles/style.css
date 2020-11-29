@@ -70,6 +70,25 @@ li {
   top: 64px;
 }
 
+.logo {
+  z-index: 2;
+  height: 32px;
+  width: 183px;
+}
+
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  height: 32px;
+  width: 183px;
+}
+.logo_place_footer {
+  content: url("/images/logo_place_footer.svg");
+  height: 35px;
+  width: 183px;
+}
+
 .flex-column {
   height: 100%;
   display: flex;
