@@ -104,6 +104,7 @@
 }
 
 .two-columns__brief {
+  margin: 0;
   color: #2f80ed;
   line-height: 1.2;
   font-size: 18px;
@@ -276,7 +277,8 @@
   right: -210px;
   height: 877px;
   width: 877px;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-size: cover;
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .footer {
